@@ -33,6 +33,7 @@ cd SEO-Optimized-e-commerce
 3. npm run dev
 
 ## 🚀 Folder Structure
+```bash
 app/
 ├── layout.tsx            # Root layout (shared UI and Redux provider)
 ├── page.tsx              # Homepage - product listing
@@ -51,3 +52,4 @@ app/
 public/
 ├── robots.txt            # Auto-generated after build
 ├── sitemap.xml           # Auto-generated after build
+```
