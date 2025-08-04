@@ -26,8 +26,8 @@ Tech Stack:
 ## 🚀 Setup
 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/nextjs-ecommerce.git
-cd nextjs-ecommerce
+git clone https://github.com/mijanConnect/SEO-Optimized-e-commerce.git
+cd SEO-Optimized-e-commerce
 ```
 2. npm install
 3. npm run dev
